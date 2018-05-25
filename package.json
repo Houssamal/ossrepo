@@ -1,0 +1,24 @@
+{
+  "name": "ossrepo",
+  "version": "1.0.0",
+  "description": "learn node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Houssamal/ossrepo.git"
+  },
+  "author": "arghal houssam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Houssamal/ossrepo/issues"
+  },
+  "homepage": "https://github.com/Houssamal/ossrepo#readme",
+  "devDependencies": {
+    "light-server": "^2.5.1"
+  }
+}
